@@ -1,0 +1,55 @@
+Sat Dec  3 21:18:26 2022
+
+QMYSQL
+database_labs
+127.0.0.1
+root
+roru159753
+Sat Dec  3 21:19:29 2022
+QMYSQL
+database_labs
+127.0.0.1
+root
+roru159753
+
+Sat Dec  3 21:22:43 2022
+QMYSQL
+database_labs
+127.0.0.1
+root
+roru159753
+
+Sat Dec  3 21:25:35 2022
+QMYSQL
+database_labs
+127.0.0.1
+root
+roru159753
+
+Sat Dec  3 21:26:46 2022
+QMYSQL
+database_labs
+127.0.0.1
+root
+roru159753
+
+Sun Dec  4 21:18:22 2022
+QMYSQL
+database_labs
+127.0.0.1
+root
+roru159753
+
+Sun Dec  4 21:21:42 2022
+QMYSQL
+database_labs
+127.0.0.1
+root
+roru159753
+
+Sun Dec  4 21:23:36 2022
+QMYSQL
+database_labs
+127.0.0.1
+root
+roru159753
