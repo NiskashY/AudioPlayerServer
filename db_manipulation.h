@@ -1,26 +1,13 @@
 #pragma once
 #include <cstring>
+#include "logging.h"
 
-QString InputSqlQuery() {   // tmp
-    const std::string& kSqlQuery = "Input Sql Query: ";
-
-    std::string query;
-    std::cout << kSqlQuery;
-    std::cin >> query;
-
-    QString q_query = QString::fromStdString(query);
-    return q_query;
-}
+#include <QSqlDatabase>
+#include <QtSql/QtSql>
 
 
-void ShowSqlQueryResult(QSqlQuery& result) {
-    int columns_count = result.record().count();
-    while (result.next()) {
-        for (int i = 0; i < columns_count; ++i) {
-            std::cout << result.value(i).toString().toStdString() << ' ';
-        }
-        std::cout << '\n';
-    }
-}
-
+QString InputSqlQuery();
+void ShowSqlQueryResult(QSqlQuery& result);
+bool ConnectToDatabase(QSqlDatabase& db);
+QString GetJsonFormatQuery(QSqlQuery& query);
 

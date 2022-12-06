@@ -47,7 +47,12 @@
 		"/usr/lib64/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake",
 		"/usr/lib64/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake",
 		"/usr/lib64/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Sql/Qt5Sql_QTDSDriverPlugin.cmake"
+		"/usr/lib64/cmake/Qt5Sql/Qt5Sql_QTDSDriverPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"/usr/lib64/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake"
 	],
 	"CMAKE_SOURCE_DIR" : "/home/mint/CppProjects/Practice/server_app",
 	"DEP_FILE" : "/home/mint/CppProjects/Practice/server_app/cmake-build-debug/server_app_autogen/deps",
@@ -65,12 +70,18 @@
 			"MU",
 			"EWIEGA46WW/moc_logging.cpp",
 			null
+		],
+		[
+			"/home/mint/CppProjects/Practice/server_app/tcp_server.h",
+			"MU",
+			"EWIEGA46WW/moc_tcp_server.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/home/mint/CppProjects/Practice/server_app/cmake-build-debug/server_app_autogen/include",
 	"MOC_COMPILATION_FILE" : "/home/mint/CppProjects/Practice/server_app/cmake-build-debug/server_app_autogen/mocs_compilation.cpp",
-	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_SQL_LIB" ],
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_NETWORK_LIB", "QT_SQL_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
 		[
@@ -84,6 +95,7 @@
 		"/usr/include/qt/QtCore",
 		"/usr/lib/qt/mkspecs/linux-g++",
 		"/usr/include/qt/QtSql",
+		"/usr/include/qt/QtNetwork",
 		"/usr/include/c++/12.2.0",
 		"/usr/include/c++/12.2.0/x86_64-pc-linux-gnu",
 		"/usr/include/c++/12.2.0/backward",
@@ -116,8 +128,18 @@
 	"SETTINGS_FILE" : "/home/mint/CppProjects/Practice/server_app/cmake-build-debug/CMakeFiles/server_app_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"/home/mint/CppProjects/Practice/server_app/db_manipulation.cpp",
+			"MU",
+			null
+		],
 		[ "/home/mint/CppProjects/Practice/server_app/logging.cpp", "MU", null ],
-		[ "/home/mint/CppProjects/Practice/server_app/main.cpp", "MU", null ]
+		[ "/home/mint/CppProjects/Practice/server_app/main.cpp", "MU", null ],
+		[
+			"/home/mint/CppProjects/Practice/server_app/tcp_server.cpp",
+			"MU",
+			null
+		]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

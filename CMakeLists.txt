@@ -11,15 +11,25 @@ find_package(Qt5 COMPONENTS
         Core
         REQUIRED
         Sql
+        Network
 )
 
 add_executable(server_app
         main.cpp
-        db_manipulation.h logging.h logging.cpp)
+        db_manipulation.h
+        db_manipulation.cpp
+
+        logging.h
+        logging.cpp
+
+        tcp_server.h
+        tcp_server.cpp
+)
 
 target_link_libraries(server_app
         Qt5::Core
         Qt5::Sql
+        Qt5::Network
 )
 
 install(TARGETS server_app

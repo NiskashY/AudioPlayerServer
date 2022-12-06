@@ -1,16 +1,7 @@
-server_app_autogen/timestamp: \
-  /home/mint/CppProjects/Practice/server_app/CMakeLists.txt \
-  CMakeFiles/3.24.2/CMakeCCompiler.cmake \
-  CMakeFiles/3.24.2/CMakeCXXCompiler.cmake \
-  CMakeFiles/3.24.2/CMakeSystem.cmake \
-  server_app_autogen/moc_predefs.h \
-  /home/mint/CppProjects/Practice/server_app/db_manipulation.cpp \
+/home/mint/CppProjects/Practice/server_app/cmake-build-debug/server_app_autogen/EWIEGA46WW/moc_tcp_server.cpp: /home/mint/CppProjects/Practice/server_app/tcp_server.h \
+  /home/mint/CppProjects/Practice/server_app/cmake-build-debug/server_app_autogen/moc_predefs.h \
   /home/mint/CppProjects/Practice/server_app/db_manipulation.h \
-  /home/mint/CppProjects/Practice/server_app/logging.cpp \
   /home/mint/CppProjects/Practice/server_app/logging.h \
-  /home/mint/CppProjects/Practice/server_app/main.cpp \
-  /home/mint/CppProjects/Practice/server_app/tcp_server.cpp \
-  /home/mint/CppProjects/Practice/server_app/tcp_server.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
   /usr/include/asm/errno.h \
@@ -515,44 +506,4 @@ server_app_autogen/timestamp: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include-fixed/syslimits.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include/stdarg.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include/stdint.h \
-  /usr/lib64/cmake/Qt5/Qt5Config.cmake \
-  /usr/lib64/cmake/Qt5/Qt5ConfigVersion.cmake \
-  /usr/lib64/cmake/Qt5/Qt5ModuleLocation.cmake \
-  /usr/lib64/cmake/Qt5Core/Qt5CoreConfig.cmake \
-  /usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtras.cmake \
-  /usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake \
-  /usr/lib64/cmake/Qt5Core/Qt5CoreConfigVersion.cmake \
-  /usr/lib64/cmake/Qt5Core/Qt5CoreMacros.cmake \
-  /usr/lib64/cmake/Qt5Network/Qt5NetworkConfig.cmake \
-  /usr/lib64/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake \
-  /usr/lib64/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake \
-  /usr/lib64/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake \
-  /usr/lib64/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake \
-  /usr/lib64/cmake/Qt5Sql/Qt5SqlConfig.cmake \
-  /usr/lib64/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake \
-  /usr/lib64/cmake/Qt5Sql/Qt5Sql_QIBaseDriverPlugin.cmake \
-  /usr/lib64/cmake/Qt5Sql/Qt5Sql_QMYSQLDriverPlugin.cmake \
-  /usr/lib64/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake \
-  /usr/lib64/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake \
-  /usr/lib64/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake \
-  /usr/lib64/cmake/Qt5Sql/Qt5Sql_QTDSDriverPlugin.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCInformation.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCXXInformation.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeGenericSystem.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeParseArguments.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU-C.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Compiler/GNU.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU-C.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU-CXX.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux-GNU.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/Linux.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/share/cmake-3.24/Modules/Platform/UnixPaths.cmake \
-  /var/lib/snapd/snap/clion/218/bin/cmake/linux/bin/cmake
+  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include/stdint.h
