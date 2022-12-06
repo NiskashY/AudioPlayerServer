@@ -22,7 +22,7 @@ void ShowSqlQueryResult(QSqlQuery &result) {
 }
 
 bool ConnectToDatabase(QSqlDatabase &db) {
-    const QString& file_with_db_parametrs = ".db_parametrs";
+    const QString& file_with_db_parametrs = ".db_parameters";
     QFile file_stream(file_with_db_parametrs);
 
     if (!file_stream.open(QIODevice::ReadOnly | QIODevice::Text)) {
@@ -47,6 +47,7 @@ bool ConnectToDatabase(QSqlDatabase &db) {
 
 
     Log log;
+    log.Write("mInitialize db -- server start");
     log.Write(driver_name.toStdString());
     log.Write(db_name.toStdString());
     log.Write(host_name.toStdString());

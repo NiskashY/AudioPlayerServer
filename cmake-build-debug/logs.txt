@@ -312,3 +312,74 @@ audioplayer
 127.0.0.1
 root
 roru159753
+
+Tue Dec  6 13:58:54 2022
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Tue Dec  6 13:59:09 2022
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Tue Dec  6 16:50:49 2022
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Tue Dec  6 16:50:49 2022
+Listening to port 9999on ip address 127.0.0.1
+
+Tue Dec  6 17:04:26 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Tue Dec  6 17:04:26 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Tue Dec  6 17:04:31 2022
+Connected5
+
+Tue Dec  6 17:04:31 2022
+Accept request: SELECT user_nickname FROM users WHERE user_nickname ='db_parameters';
+Response sent: [
+]
+
+
+Tue Dec  6 17:04:32 2022
+Disconnected
+
+Tue Dec  6 17:04:40 2022
+Connected5
+
+Tue Dec  6 17:04:40 2022
+Accept request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Tue Dec  6 17:04:40 2022
+Accept request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Tue Dec  6 17:05:56 2022
+Disconnected
