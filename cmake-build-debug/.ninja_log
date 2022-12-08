@@ -22,3 +22,9 @@
 52	6435	1670335465356693433	CMakeFiles/server_app.dir/db_manipulation.cpp.o	1f9f026601e12756
 52	6562	1670335465483361009	CMakeFiles/server_app.dir/tcp_server.cpp.o	6516b5e4a26485e8
 6562	6945	1670335465866697093	server_app	a6607e16ed6f46c0
+5	19	1670353212814505994	server_app_autogen/timestamp	e4a0deacdbb98620
+5	19	1670353212814505994	server_app_autogen/mocs_compilation.cpp	e4a0deacdbb98620
+5	19	1670353212814505994	/home/mint/CppProjects/Practice/server_app/cmake-build-debug/server_app_autogen/timestamp	e4a0deacdbb98620
+5	19	1670353212814505994	/home/mint/CppProjects/Practice/server_app/cmake-build-debug/server_app_autogen/mocs_compilation.cpp	e4a0deacdbb98620
+20	3139	1670353215934513718	CMakeFiles/server_app.dir/tcp_server.cpp.o	6516b5e4a26485e8
+3139	3402	1670353216197847703	server_app	a6607e16ed6f46c0
