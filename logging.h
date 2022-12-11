@@ -29,6 +29,15 @@ public:
         }
     }
 
+    template <class T>
+    void WriteInline(const T& kMsg) {
+        if (isOk) {
+            out << '\''<< kMsg << "' ";
+        } else {
+            std::cerr << "Error occurred: file not opeN" << '\n';
+        }
+    }
+
     ~Log();
 
 private:

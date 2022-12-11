@@ -1138,6 +1138,42 @@
 			"value" : "/usr/lib64/cmake/Qt5Core"
 		},
 		{
+			"name" : "Qt5Gui_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt5Gui."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/usr/lib64/cmake/Qt5Gui"
+		},
+		{
+			"name" : "Qt5Multimedi_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt5Multimedi."
+				}
+			],
+			"type" : "PATH",
+			"value" : "Qt5Multimedi_DIR-NOTFOUND"
+		},
+		{
+			"name" : "Qt5Multimedia_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt5Multimedia."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/usr/lib64/cmake/Qt5Multimedia"
+		},
+		{
 			"name" : "Qt5Network_DIR",
 			"properties" : 
 			[
@@ -1160,6 +1196,18 @@
 			],
 			"type" : "PATH",
 			"value" : "/usr/lib64/cmake/Qt5Sql"
+		},
+		{
+			"name" : "Qt5Widgets_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt5Widgets."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/usr/lib64/cmake/Qt5Widgets"
 		},
 		{
 			"name" : "Qt5_DIR",

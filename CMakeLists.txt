@@ -12,6 +12,7 @@ find_package(Qt5 COMPONENTS
         REQUIRED
         Sql
         Network
+        Multimedia
 )
 
 add_executable(server_app
@@ -27,9 +28,9 @@ add_executable(server_app
 )
 
 target_link_libraries(server_app
-        Qt5::Core
         Qt5::Sql
         Qt5::Network
+        Qt5::Multimedia
 )
 
 install(TARGETS server_app

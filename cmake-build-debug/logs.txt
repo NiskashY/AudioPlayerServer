@@ -7568,3 +7568,6685 @@ Response sent: [
 
 Thu Dec  8 22:16:54 2022
 Disconnected
+
+Fri Dec  9 08:32:49 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Fri Dec  9 08:32:49 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Fri Dec  9 08:34:13 2022
+Connected5
+
+Fri Dec  9 08:34:13 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 08:34:13 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 08:57:03 2022
+Disconnected
+
+Fri Dec  9 08:57:21 2022
+Connected5
+
+Fri Dec  9 08:57:21 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 08:57:21 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:01:58 2022
+Disconnected
+
+Fri Dec  9 09:03:28 2022
+Connected5
+
+Fri Dec  9 09:03:28 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:03:28 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:11:03 2022
+Disconnected
+
+Fri Dec  9 09:11:04 2022
+Connected5
+
+Fri Dec  9 09:11:04 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:11:04 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:11:06 2022
+Disconnected
+
+Fri Dec  9 09:11:22 2022
+Connected5
+
+Fri Dec  9 09:11:22 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:11:23 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:16:42 2022
+Disconnected
+
+Fri Dec  9 09:16:50 2022
+Connected5
+
+Fri Dec  9 09:16:50 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:16:50 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:19:46 2022
+Disconnected
+
+Fri Dec  9 09:19:53 2022
+Connected5
+
+Fri Dec  9 09:19:53 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:19:53 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:21:39 2022
+Disconnected
+
+Fri Dec  9 09:21:45 2022
+Connected5
+
+Fri Dec  9 09:21:45 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:21:45 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:21:47 2022
+Disconnected
+
+Fri Dec  9 09:23:02 2022
+Connected5
+
+Fri Dec  9 09:23:02 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:23:02 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:25:26 2022
+Disconnected
+
+Fri Dec  9 09:25:35 2022
+Connected5
+
+Fri Dec  9 09:25:35 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:25:35 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:32:53 2022
+Disconnected
+
+Fri Dec  9 09:33:03 2022
+Connected5
+
+Fri Dec  9 09:33:03 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:33:03 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:36:42 2022
+Disconnected
+
+Fri Dec  9 09:36:47 2022
+Connected5
+
+Fri Dec  9 09:36:47 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:36:47 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:39:13 2022
+Disconnected
+
+Fri Dec  9 09:39:48 2022
+Connected5
+
+Fri Dec  9 09:39:48 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:39:48 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:40:09 2022
+Disconnected
+
+Fri Dec  9 09:40:14 2022
+Connected5
+
+Fri Dec  9 09:40:14 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:40:14 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:40:52 2022
+Disconnected
+
+Fri Dec  9 09:41:03 2022
+Connected5
+
+Fri Dec  9 09:41:03 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:41:03 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:43:09 2022
+Disconnected
+
+Fri Dec  9 09:43:15 2022
+Connected5
+
+Fri Dec  9 09:43:15 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:43:15 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:45:39 2022
+Disconnected
+
+Fri Dec  9 09:45:45 2022
+Connected5
+
+Fri Dec  9 09:45:45 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 09:45:45 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:05:29 2022
+Disconnected
+
+Fri Dec  9 10:30:20 2022
+Connected5
+
+Fri Dec  9 10:30:20 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:30:20 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:31:25 2022
+Disconnected
+
+Fri Dec  9 10:31:37 2022
+Connected5
+
+Fri Dec  9 10:31:37 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:31:37 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:31:41 2022
+Disconnected
+
+Fri Dec  9 10:42:58 2022
+Connected5
+
+Fri Dec  9 10:42:58 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:42:58 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:43:53 2022
+Disconnected
+
+Fri Dec  9 10:44:15 2022
+Connected5
+
+Fri Dec  9 10:44:15 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:44:15 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:44:21 2022
+Disconnected
+
+Fri Dec  9 10:44:37 2022
+Connected5
+
+Fri Dec  9 10:44:37 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:44:37 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:44:41 2022
+Disconnected
+
+Fri Dec  9 10:45:54 2022
+Connected5
+
+Fri Dec  9 10:45:54 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:45:54 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:46:08 2022
+Disconnected
+
+Fri Dec  9 10:46:17 2022
+Connected5
+
+Fri Dec  9 10:46:17 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:46:17 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:46:22 2022
+Disconnected
+
+Fri Dec  9 10:46:45 2022
+Connected5
+
+Fri Dec  9 10:46:45 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:46:45 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:49:04 2022
+Disconnected
+
+Fri Dec  9 10:50:31 2022
+Connected5
+
+Fri Dec  9 10:50:31 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:50:31 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:53:16 2022
+Disconnected
+
+Fri Dec  9 10:53:25 2022
+Connected5
+
+Fri Dec  9 10:53:25 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:53:25 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 10:53:45 2022
+Disconnected
+
+Fri Dec  9 11:16:18 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Fri Dec  9 11:16:18 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Fri Dec  9 11:22:14 2022
+Connected5
+
+Fri Dec  9 11:22:14 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:22:14 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:24:00 2022
+Disconnected
+
+Fri Dec  9 11:24:56 2022
+Connected5
+
+Fri Dec  9 11:24:56 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:24:56 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:33:45 2022
+Disconnected
+
+Fri Dec  9 11:33:58 2022
+Connected5
+
+Fri Dec  9 11:33:58 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:33:58 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:41:23 2022
+Disconnected
+
+Fri Dec  9 11:42:14 2022
+Connected5
+
+Fri Dec  9 11:42:14 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:42:14 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:45:21 2022
+Disconnected
+
+Fri Dec  9 11:45:44 2022
+Connected5
+
+Fri Dec  9 11:45:44 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:45:44 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:46:11 2022
+Disconnected
+
+Fri Dec  9 11:46:54 2022
+Connected5
+
+Fri Dec  9 11:46:54 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:46:54 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:47:06 2022
+Disconnected
+
+Fri Dec  9 11:47:50 2022
+Connected5
+
+Fri Dec  9 11:47:50 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:47:50 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:49:09 2022
+Disconnected
+
+Fri Dec  9 11:50:00 2022
+Connected5
+
+Fri Dec  9 11:50:00 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:50:00 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:50:53 2022
+Disconnected
+
+Fri Dec  9 11:59:17 2022
+Connected5
+
+Fri Dec  9 11:59:17 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 11:59:17 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:15:18 2022
+Disconnected
+
+Fri Dec  9 15:15:34 2022
+Connected5
+
+Fri Dec  9 15:15:34 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:15:34 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:16:37 2022
+Disconnected
+
+Fri Dec  9 15:16:47 2022
+Connected5
+
+Fri Dec  9 15:16:47 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:16:47 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:16:48 2022
+Disconnected
+
+Fri Dec  9 15:16:48 2022
+Connected5
+
+Fri Dec  9 15:16:48 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:16:48 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:16:49 2022
+Disconnected
+
+Fri Dec  9 15:16:50 2022
+Connected5
+
+Fri Dec  9 15:16:50 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:16:50 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:16:52 2022
+Disconnected
+
+Fri Dec  9 15:16:53 2022
+Connected5
+
+Fri Dec  9 15:16:53 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:16:53 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:16:56 2022
+Disconnected
+
+Fri Dec  9 15:18:14 2022
+Connected5
+
+Fri Dec  9 15:18:14 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:18:14 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:23:45 2022
+Disconnected
+
+Fri Dec  9 15:24:08 2022
+Connected5
+
+Fri Dec  9 15:24:08 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:24:08 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:28:50 2022
+Disconnected
+
+Fri Dec  9 15:29:46 2022
+Connected5
+
+Fri Dec  9 15:29:46 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:29:46 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:29:48 2022
+Disconnected
+
+Fri Dec  9 15:29:50 2022
+Connected5
+
+Fri Dec  9 15:29:50 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 15:29:50 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:07:15 2022
+Disconnected
+
+Fri Dec  9 16:07:31 2022
+Connected5
+
+Fri Dec  9 16:07:31 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:07:31 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:07:40 2022
+Disconnected
+
+Fri Dec  9 16:09:34 2022
+Connected5
+
+Fri Dec  9 16:09:34 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:09:34 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:09:37 2022
+Disconnected
+
+Fri Dec  9 16:09:38 2022
+Connected5
+
+Fri Dec  9 16:09:38 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:09:38 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:09:44 2022
+Disconnected
+
+Fri Dec  9 16:09:45 2022
+Connected5
+
+Fri Dec  9 16:09:45 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:09:45 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:09:52 2022
+Disconnected
+
+Fri Dec  9 16:09:53 2022
+Connected5
+
+Fri Dec  9 16:09:53 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:09:53 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:09:55 2022
+Disconnected
+
+Fri Dec  9 16:12:07 2022
+Connected5
+
+Fri Dec  9 16:12:07 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:12:07 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:12:13 2022
+Disconnected
+
+Fri Dec  9 16:13:00 2022
+Connected5
+
+Fri Dec  9 16:13:00 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:13:00 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:17:01 2022
+Disconnected
+
+Fri Dec  9 16:17:05 2022
+Connected5
+
+Fri Dec  9 16:17:05 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:17:05 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:17:30 2022
+Disconnected
+
+Fri Dec  9 16:17:32 2022
+Connected5
+
+Fri Dec  9 16:17:32 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:17:32 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:18:01 2022
+Disconnected
+
+Fri Dec  9 16:22:18 2022
+Connected5
+
+Fri Dec  9 16:22:18 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:22:18 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:22:52 2022
+Disconnected
+
+Fri Dec  9 16:22:53 2022
+Connected5
+
+Fri Dec  9 16:22:53 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:22:53 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:23:11 2022
+Disconnected
+
+Fri Dec  9 16:23:12 2022
+Connected5
+
+Fri Dec  9 16:23:12 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:23:12 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:24:39 2022
+Disconnected
+
+Fri Dec  9 16:24:47 2022
+Connected5
+
+Fri Dec  9 16:24:47 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:24:47 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:26:58 2022
+Disconnected
+
+Fri Dec  9 16:29:38 2022
+Connected5
+
+Fri Dec  9 16:29:38 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:29:38 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:29:49 2022
+Disconnected
+
+Fri Dec  9 16:29:54 2022
+Connected5
+
+Fri Dec  9 16:29:54 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:29:54 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:29:56 2022
+Disconnected
+
+Fri Dec  9 16:30:17 2022
+Connected5
+
+Fri Dec  9 16:30:17 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:30:17 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:30:21 2022
+Disconnected
+
+Fri Dec  9 16:30:32 2022
+Connected5
+
+Fri Dec  9 16:30:32 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:30:32 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:30:37 2022
+Disconnected
+
+Fri Dec  9 16:30:40 2022
+Connected5
+
+Fri Dec  9 16:30:40 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:30:40 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:30:51 2022
+Disconnected
+
+Fri Dec  9 16:31:10 2022
+Connected5
+
+Fri Dec  9 16:31:10 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:31:10 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:31:37 2022
+Disconnected
+
+Fri Dec  9 16:33:04 2022
+Connected5
+
+Fri Dec  9 16:33:04 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:33:04 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:33:10 2022
+Disconnected
+
+Fri Dec  9 16:33:42 2022
+Connected5
+
+Fri Dec  9 16:33:42 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:33:42 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:34:00 2022
+Disconnected
+
+Fri Dec  9 16:35:11 2022
+Connected5
+
+Fri Dec  9 16:35:11 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:35:11 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:35:36 2022
+Disconnected
+
+Fri Dec  9 16:37:55 2022
+Connected5
+
+Fri Dec  9 16:37:55 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:37:55 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:38:07 2022
+Disconnected
+
+Fri Dec  9 16:39:05 2022
+Connected5
+
+Fri Dec  9 16:39:05 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:39:05 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:42:25 2022
+Disconnected
+
+Fri Dec  9 16:42:53 2022
+Connected5
+
+Fri Dec  9 16:42:53 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:42:53 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:43:18 2022
+Disconnected
+
+Fri Dec  9 16:44:10 2022
+Connected5
+
+Fri Dec  9 16:44:10 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:44:10 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:44:32 2022
+Disconnected
+
+Fri Dec  9 16:45:50 2022
+Connected5
+
+Fri Dec  9 16:45:50 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:45:50 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:46:36 2022
+Disconnected
+
+Fri Dec  9 16:46:40 2022
+Connected5
+
+Fri Dec  9 16:46:40 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:46:40 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:47:38 2022
+Disconnected
+
+Fri Dec  9 16:47:59 2022
+Connected5
+
+Fri Dec  9 16:47:59 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:47:59 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:48:41 2022
+Disconnected
+
+Fri Dec  9 16:49:57 2022
+Connected5
+
+Fri Dec  9 16:49:57 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:49:57 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:52:26 2022
+Disconnected
+
+Fri Dec  9 16:52:56 2022
+Connected5
+
+Fri Dec  9 16:52:56 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:52:56 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:54:22 2022
+Disconnected
+
+Fri Dec  9 16:54:35 2022
+Connected5
+
+Fri Dec  9 16:54:35 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:54:35 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:55:14 2022
+Disconnected
+
+Fri Dec  9 16:55:18 2022
+Connected5
+
+Fri Dec  9 16:55:18 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:55:18 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:56:32 2022
+Disconnected
+
+Fri Dec  9 16:59:01 2022
+Connected5
+
+Fri Dec  9 16:59:01 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:59:01 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 16:59:22 2022
+Disconnected
+
+Fri Dec  9 17:01:08 2022
+Connected5
+
+Fri Dec  9 17:01:08 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:01:08 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:01:17 2022
+Disconnected
+
+Fri Dec  9 17:02:31 2022
+Connected5
+
+Fri Dec  9 17:02:31 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:02:31 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:02:45 2022
+Disconnected
+
+Fri Dec  9 17:03:10 2022
+Connected5
+
+Fri Dec  9 17:03:10 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:03:10 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:04:11 2022
+Disconnected
+
+Fri Dec  9 17:06:07 2022
+Connected5
+
+Fri Dec  9 17:06:07 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:06:07 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:06:17 2022
+Disconnected
+
+Fri Dec  9 17:07:59 2022
+Connected5
+
+Fri Dec  9 17:07:59 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:07:59 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:08:48 2022
+Disconnected
+
+Fri Dec  9 17:09:56 2022
+Connected5
+
+Fri Dec  9 17:09:56 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:09:56 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:12:09 2022
+Connected7
+
+Fri Dec  9 17:12:09 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:12:09 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:12:24 2022
+Disconnected
+
+Fri Dec  9 17:12:24 2022
+Disconnected
+
+Fri Dec  9 17:14:04 2022
+Connected5
+
+Fri Dec  9 17:14:04 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:14:04 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:15:17 2022
+Disconnected
+
+Fri Dec  9 17:16:06 2022
+Connected5
+
+Fri Dec  9 17:16:06 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:16:06 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:16:43 2022
+Disconnected
+
+Fri Dec  9 17:19:21 2022
+Connected5
+
+Fri Dec  9 17:19:21 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:19:21 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:19:52 2022
+Disconnected
+
+Fri Dec  9 17:31:33 2022
+Connected5
+
+Fri Dec  9 17:31:33 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:31:33 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:32:31 2022
+Disconnected
+
+Fri Dec  9 17:32:48 2022
+Connected5
+
+Fri Dec  9 17:32:48 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:32:48 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:33:10 2022
+Disconnected
+
+Fri Dec  9 17:34:17 2022
+Connected5
+
+Fri Dec  9 17:34:17 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:34:17 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:36:57 2022
+Disconnected
+
+Fri Dec  9 17:37:48 2022
+Connected5
+
+Fri Dec  9 17:37:48 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:37:48 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:39:09 2022
+Disconnected
+
+Fri Dec  9 17:39:14 2022
+Connected5
+
+Fri Dec  9 17:39:14 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:39:14 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 17:44:46 2022
+Disconnected
+
+Fri Dec  9 21:04:02 2022
+Connected5
+
+Fri Dec  9 21:04:02 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:02 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:02 2022
+Disconnected
+
+Fri Dec  9 21:04:03 2022
+Connected5
+
+Fri Dec  9 21:04:03 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:03 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:03 2022
+Disconnected
+
+Fri Dec  9 21:04:03 2022
+Connected5
+
+Fri Dec  9 21:04:03 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:03 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:03 2022
+Disconnected
+
+Fri Dec  9 21:04:03 2022
+Connected5
+
+Fri Dec  9 21:04:03 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:03 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:03 2022
+Disconnected
+
+Fri Dec  9 21:04:04 2022
+Connected5
+
+Fri Dec  9 21:04:04 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:04 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:04 2022
+Disconnected
+
+Fri Dec  9 21:04:04 2022
+Connected5
+
+Fri Dec  9 21:04:04 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:04 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:04 2022
+Disconnected
+
+Fri Dec  9 21:04:04 2022
+Connected5
+
+Fri Dec  9 21:04:04 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:04 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:04 2022
+Disconnected
+
+Fri Dec  9 21:04:25 2022
+Connected5
+
+Fri Dec  9 21:04:25 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:25 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:25 2022
+Disconnected
+
+Fri Dec  9 21:04:25 2022
+Connected5
+
+Fri Dec  9 21:04:25 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:25 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:04:25 2022
+Disconnected
+
+Fri Dec  9 21:06:53 2022
+Connected5
+
+Fri Dec  9 21:06:53 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:06:53 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:06:54 2022
+Disconnected
+
+Fri Dec  9 21:06:54 2022
+Connected5
+
+Fri Dec  9 21:06:54 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:06:54 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:06:55 2022
+Disconnected
+
+Fri Dec  9 21:06:56 2022
+Connected5
+
+Fri Dec  9 21:06:56 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:06:56 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:06:56 2022
+Disconnected
+
+Fri Dec  9 21:07:05 2022
+Connected5
+
+Fri Dec  9 21:07:05 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:07:05 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:07:05 2022
+Disconnected
+
+Fri Dec  9 21:07:13 2022
+Connected5
+
+Fri Dec  9 21:07:13 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:07:13 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:07:13 2022
+Disconnected
+
+Fri Dec  9 21:08:03 2022
+Connected5
+
+Fri Dec  9 21:08:03 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='';
+Response sent: [
+]
+
+
+Fri Dec  9 21:08:04 2022
+Disconnected
+
+Fri Dec  9 21:14:12 2022
+Connected5
+
+Fri Dec  9 21:14:12 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:14:12 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:14:12 2022
+Disconnected
+
+Fri Dec  9 21:15:13 2022
+Connected5
+
+Fri Dec  9 21:15:13 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='';
+Response sent: [
+]
+
+
+Fri Dec  9 21:15:14 2022
+Disconnected
+
+Fri Dec  9 21:15:23 2022
+Connected5
+
+Fri Dec  9 21:15:23 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:15:23 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:15:23 2022
+Disconnected
+
+Fri Dec  9 21:16:01 2022
+Connected5
+
+Fri Dec  9 21:16:01 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:16:01 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:16:01 2022
+Disconnected
+
+Fri Dec  9 21:36:54 2022
+Connected5
+
+Fri Dec  9 21:36:54 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:36:54 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:36:54 2022
+Disconnected
+
+Fri Dec  9 21:39:53 2022
+Connected5
+
+Fri Dec  9 21:39:53 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:39:53 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:39:53 2022
+Disconnected
+
+Fri Dec  9 21:40:58 2022
+Connected5
+
+Fri Dec  9 21:40:58 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:40:58 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:40:58 2022
+Disconnected
+
+Fri Dec  9 21:41:06 2022
+Connected5
+
+Fri Dec  9 21:41:06 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:41:06 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:41:06 2022
+Disconnected
+
+Fri Dec  9 21:42:09 2022
+Connected5
+
+Fri Dec  9 21:42:09 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:42:09 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Fri Dec  9 21:42:09 2022
+Disconnected
+
+Sat Dec 10 09:08:16 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sat Dec 10 09:08:16 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sat Dec 10 09:45:50 2022
+Connected5
+
+Sat Dec 10 09:45:50 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 09:45:50 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 09:45:50 2022
+Disconnected
+
+Sat Dec 10 09:47:06 2022
+Connected5
+
+Sat Dec 10 09:47:06 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 09:47:06 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 09:47:06 2022
+Disconnected
+
+Sat Dec 10 15:02:46 2022
+Connected5
+
+Sat Dec 10 15:02:46 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 15:02:46 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 15:02:46 2022
+Disconnected
+
+Sat Dec 10 15:09:40 2022
+Connected5
+
+Sat Dec 10 15:09:40 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='';
+Response sent: [
+]
+
+
+Sat Dec 10 15:09:40 2022
+Disconnected
+
+Sat Dec 10 15:28:42 2022
+Connected5
+
+Sat Dec 10 15:28:42 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='';
+Response sent: [
+]
+
+
+Sat Dec 10 15:28:43 2022
+Disconnected
+
+Sat Dec 10 18:37:53 2022
+Connected5
+
+Sat Dec 10 18:37:53 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 18:37:53 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 18:37:53 2022
+Disconnected
+
+Sat Dec 10 18:37:53 2022
+Connected5
+
+Sat Dec 10 18:37:53 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:37:53 2022
+Disconnected
+
+Sat Dec 10 18:38:02 2022
+Connected5
+
+Sat Dec 10 18:38:02 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:38:02 2022
+Disconnected
+
+Sat Dec 10 18:38:02 2022
+Connected5
+
+Sat Dec 10 18:38:02 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:38:02 2022
+Disconnected
+
+Sat Dec 10 18:38:02 2022
+Connected5
+
+Sat Dec 10 18:38:02 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:38:02 2022
+Disconnected
+
+Sat Dec 10 18:38:04 2022
+Connected5
+
+Sat Dec 10 18:38:04 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:38:04 2022
+Disconnected
+
+Sat Dec 10 18:38:04 2022
+Connected5
+
+Sat Dec 10 18:38:04 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:38:04 2022
+Disconnected
+
+Sat Dec 10 18:38:04 2022
+Connected5
+
+Sat Dec 10 18:38:04 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:38:04 2022
+Disconnected
+
+Sat Dec 10 18:38:04 2022
+Connected5
+
+Sat Dec 10 18:38:04 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:38:04 2022
+Disconnected
+
+Sat Dec 10 18:38:04 2022
+Connected5
+
+Sat Dec 10 18:38:04 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:38:04 2022
+Disconnected
+
+Sat Dec 10 18:38:04 2022
+Connected5
+
+Sat Dec 10 18:38:04 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:38:04 2022
+Disconnected
+
+Sat Dec 10 18:38:05 2022
+Connected5
+
+Sat Dec 10 18:38:05 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:38:05 2022
+Disconnected
+
+Sat Dec 10 18:39:11 2022
+Connected5
+
+Sat Dec 10 18:39:11 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:39:11 2022
+Disconnected
+
+Sat Dec 10 18:39:24 2022
+Connected5
+
+Sat Dec 10 18:39:24 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:39:24 2022
+Disconnected
+
+Sat Dec 10 18:39:29 2022
+Connected5
+
+Sat Dec 10 18:39:29 2022
+Accepted request: SELECT song_title FROM songs WHERE             id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:39:29 2022
+Disconnected
+
+Sat Dec 10 18:40:17 2022
+Connected5
+
+Sat Dec 10 18:40:17 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 18:40:17 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 18:40:17 2022
+Disconnected
+
+Sat Dec 10 18:40:17 2022
+Connected5
+
+Sat Dec 10 18:40:17 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:40:17 2022
+Disconnected
+
+Sat Dec 10 18:47:58 2022
+Connected5
+
+Sat Dec 10 18:47:58 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 18:47:58 2022
+Accepted request: SELECT user_nickname FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 18:47:58 2022
+Accepted request: SELECT user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 18:47:58 2022
+Disconnected
+
+Sat Dec 10 18:47:58 2022
+Connected5
+
+Sat Dec 10 18:47:58 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:47:58 2022
+Disconnected
+
+Sat Dec 10 18:50:49 2022
+Connected5
+
+Sat Dec 10 18:50:49 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 18:50:49 2022
+Disconnected
+
+Sat Dec 10 18:50:49 2022
+Connected5
+
+Sat Dec 10 18:50:49 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:50:49 2022
+Disconnected
+
+Sat Dec 10 18:51:06 2022
+Connected5
+
+Sat Dec 10 18:51:06 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:51:06 2022
+Disconnected
+
+Sat Dec 10 18:51:06 2022
+Connected5
+
+Sat Dec 10 18:51:06 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:51:06 2022
+Disconnected
+
+Sat Dec 10 18:51:07 2022
+Connected5
+
+Sat Dec 10 18:51:07 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+]
+
+
+Sat Dec 10 18:51:07 2022
+Disconnected
+
+Sat Dec 10 18:57:09 2022
+Connected5
+
+Sat Dec 10 18:57:09 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 18:57:09 2022
+Disconnected
+
+Sat Dec 10 18:57:09 2022
+Connected5
+
+Sat Dec 10 18:57:09 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 18:57:09 2022
+Disconnected
+
+Sat Dec 10 18:58:06 2022
+Connected5
+
+Sat Dec 10 18:58:06 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 18:58:06 2022
+Disconnected
+
+Sat Dec 10 18:58:06 2022
+Connected5
+
+Sat Dec 10 18:58:06 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 18:59:39 2022
+Disconnected
+
+Sat Dec 10 19:00:51 2022
+Connected5
+
+Sat Dec 10 19:00:51 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:00:51 2022
+Disconnected
+
+Sat Dec 10 19:00:51 2022
+Connected5
+
+Sat Dec 10 19:00:51 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:00:51 2022
+Disconnected
+
+Sat Dec 10 19:01:15 2022
+Connected5
+
+Sat Dec 10 19:01:15 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:01:15 2022
+Disconnected
+
+Sat Dec 10 19:01:15 2022
+Connected5
+
+Sat Dec 10 19:01:15 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:01:27 2022
+Disconnected
+
+Sat Dec 10 19:01:39 2022
+Connected5
+
+Sat Dec 10 19:01:39 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:01:39 2022
+Disconnected
+
+Sat Dec 10 19:01:39 2022
+Connected5
+
+Sat Dec 10 19:01:39 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:01:39 2022
+Disconnected
+
+Sat Dec 10 19:01:48 2022
+Connected5
+
+Sat Dec 10 19:01:48 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:01:48 2022
+Disconnected
+
+Sat Dec 10 19:02:47 2022
+Connected5
+
+Sat Dec 10 19:02:47 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:02:47 2022
+Disconnected
+
+Sat Dec 10 19:05:51 2022
+Connected5
+
+Sat Dec 10 19:05:51 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:05:51 2022
+Disconnected
+
+Sat Dec 10 19:05:51 2022
+Connected5
+
+Sat Dec 10 19:05:51 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:05:51 2022
+Disconnected
+
+Sat Dec 10 19:06:20 2022
+Connected5
+
+Sat Dec 10 19:06:20 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:06:20 2022
+Disconnected
+
+Sat Dec 10 19:06:20 2022
+Connected5
+
+Sat Dec 10 19:06:20 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:06:20 2022
+Disconnected
+
+Sat Dec 10 19:06:21 2022
+Connected5
+
+Sat Dec 10 19:06:21 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:06:21 2022
+Disconnected
+
+Sat Dec 10 19:06:21 2022
+Connected5
+
+Sat Dec 10 19:06:21 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:06:21 2022
+Disconnected
+
+Sat Dec 10 19:06:21 2022
+Connected5
+
+Sat Dec 10 19:06:21 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:06:21 2022
+Disconnected
+
+Sat Dec 10 19:06:21 2022
+Connected5
+
+Sat Dec 10 19:06:21 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:06:21 2022
+Disconnected
+
+Sat Dec 10 19:06:22 2022
+Connected5
+
+Sat Dec 10 19:06:22 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:06:22 2022
+Disconnected
+
+Sat Dec 10 19:06:22 2022
+Connected5
+
+Sat Dec 10 19:06:22 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:06:22 2022
+Disconnected
+
+Sat Dec 10 19:06:22 2022
+Connected5
+
+Sat Dec 10 19:06:22 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:06:22 2022
+Disconnected
+
+Sat Dec 10 19:06:22 2022
+Connected5
+
+Sat Dec 10 19:06:22 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:06:22 2022
+Disconnected
+
+Sat Dec 10 19:06:22 2022
+Connected5
+
+Sat Dec 10 19:06:22 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    }
+]
+
+
+Sat Dec 10 19:06:22 2022
+Disconnected
+
+Sat Dec 10 19:06:37 2022
+Connected5
+
+Sat Dec 10 19:06:37 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:06:37 2022
+Disconnected
+
+Sat Dec 10 19:10:25 2022
+Connected5
+
+Sat Dec 10 19:10:25 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:10:25 2022
+Disconnected
+
+Sat Dec 10 19:10:25 2022
+Connected5
+
+Sat Dec 10 19:10:25 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:10:25 2022
+Disconnected
+
+Sat Dec 10 19:10:34 2022
+Connected5
+
+Sat Dec 10 19:10:34 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:10:34 2022
+Disconnected
+
+Sat Dec 10 19:10:34 2022
+Connected5
+
+Sat Dec 10 19:10:34 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:10:34 2022
+Disconnected
+
+Sat Dec 10 19:10:34 2022
+Connected5
+
+Sat Dec 10 19:10:34 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:10:34 2022
+Disconnected
+
+Sat Dec 10 19:10:34 2022
+Connected5
+
+Sat Dec 10 19:10:34 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:10:34 2022
+Disconnected
+
+Sat Dec 10 19:10:34 2022
+Connected5
+
+Sat Dec 10 19:10:34 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:10:34 2022
+Disconnected
+
+Sat Dec 10 19:10:35 2022
+Connected5
+
+Sat Dec 10 19:10:35 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:10:35 2022
+Disconnected
+
+Sat Dec 10 19:10:35 2022
+Connected5
+
+Sat Dec 10 19:10:35 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:10:35 2022
+Disconnected
+
+Sat Dec 10 19:10:35 2022
+Connected5
+
+Sat Dec 10 19:10:35 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:10:35 2022
+Disconnected
+
+Sat Dec 10 19:10:35 2022
+Connected5
+
+Sat Dec 10 19:10:35 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:10:35 2022
+Disconnected
+
+Sat Dec 10 19:10:35 2022
+Connected5
+
+Sat Dec 10 19:10:35 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:10:35 2022
+Disconnected
+
+Sat Dec 10 19:11:06 2022
+Connected5
+
+Sat Dec 10 19:11:06 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:11:06 2022
+Disconnected
+
+Sat Dec 10 19:11:06 2022
+Connected5
+
+Sat Dec 10 19:11:06 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:11:06 2022
+Disconnected
+
+Sat Dec 10 19:11:07 2022
+Connected5
+
+Sat Dec 10 19:11:07 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:11:07 2022
+Disconnected
+
+Sat Dec 10 19:11:07 2022
+Connected5
+
+Sat Dec 10 19:11:07 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:11:07 2022
+Disconnected
+
+Sat Dec 10 19:11:07 2022
+Connected5
+
+Sat Dec 10 19:11:07 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:11:07 2022
+Disconnected
+
+Sat Dec 10 19:11:07 2022
+Connected5
+
+Sat Dec 10 19:11:07 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:11:07 2022
+Disconnected
+
+Sat Dec 10 19:11:08 2022
+Connected5
+
+Sat Dec 10 19:11:08 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:11:08 2022
+Disconnected
+
+Sat Dec 10 19:18:12 2022
+Connected5
+
+Sat Dec 10 19:18:12 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:18:12 2022
+Disconnected
+
+Sat Dec 10 19:20:03 2022
+Connected5
+
+Sat Dec 10 19:20:03 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:20:03 2022
+Disconnected
+
+Sat Dec 10 19:20:13 2022
+Connected5
+
+Sat Dec 10 19:20:13 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:20:13 2022
+Disconnected
+
+Sat Dec 10 19:20:13 2022
+Connected5
+
+Sat Dec 10 19:20:13 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:20:13 2022
+Disconnected
+
+Sat Dec 10 19:23:46 2022
+Connected5
+
+Sat Dec 10 19:23:46 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:23:46 2022
+Disconnected
+
+Sat Dec 10 19:23:46 2022
+Connected5
+
+Sat Dec 10 19:23:46 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:23:53 2022
+Disconnected
+
+Sat Dec 10 19:25:57 2022
+Connected5
+
+Sat Dec 10 19:25:57 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:25:57 2022
+Disconnected
+
+Sat Dec 10 19:25:57 2022
+Connected5
+
+Sat Dec 10 19:25:57 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:25:57 2022
+Disconnected
+
+Sat Dec 10 19:26:15 2022
+Connected5
+
+Sat Dec 10 19:26:15 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:26:15 2022
+Disconnected
+
+Sat Dec 10 19:26:15 2022
+Connected5
+
+Sat Dec 10 19:26:15 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:26:15 2022
+Disconnected
+
+Sat Dec 10 19:26:17 2022
+Connected5
+
+Sat Dec 10 19:26:17 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:26:17 2022
+Disconnected
+
+Sat Dec 10 19:26:24 2022
+Connected5
+
+Sat Dec 10 19:26:24 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:26:24 2022
+Disconnected
+
+Sat Dec 10 19:26:24 2022
+Connected5
+
+Sat Dec 10 19:26:24 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:26:24 2022
+Disconnected
+
+Sat Dec 10 19:30:06 2022
+Connected5
+
+Sat Dec 10 19:30:06 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:30:06 2022
+Disconnected
+
+Sat Dec 10 19:30:06 2022
+Connected5
+
+Sat Dec 10 19:30:06 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:30:06 2022
+Disconnected
+
+Sat Dec 10 19:32:00 2022
+Connected5
+
+Sat Dec 10 19:32:00 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:32:00 2022
+Disconnected
+
+Sat Dec 10 19:32:00 2022
+Connected5
+
+Sat Dec 10 19:32:00 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:32:00 2022
+Disconnected
+
+Sat Dec 10 19:32:21 2022
+Connected5
+
+Sat Dec 10 19:32:21 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:32:21 2022
+Disconnected
+
+Sat Dec 10 19:32:21 2022
+Connected5
+
+Sat Dec 10 19:32:21 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:32:21 2022
+Disconnected
+
+Sat Dec 10 19:50:24 2022
+Connected5
+
+Sat Dec 10 19:50:24 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sat Dec 10 19:50:24 2022
+Disconnected
+
+Sat Dec 10 19:50:24 2022
+Connected5
+
+Sat Dec 10 19:50:24 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sat Dec 10 19:50:24 2022
+Disconnected
+
+Sun Dec 11 12:54:18 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 12:54:18 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 12:54:45 2022
+Connected5
+
+Sun Dec 11 12:54:45 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 12:54:45 2022
+Disconnected
+
+Sun Dec 11 12:54:45 2022
+Connected5
+
+Sun Dec 11 12:54:45 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sun Dec 11 12:54:45 2022
+Disconnected
+
+Sun Dec 11 12:54:50 2022
+Connected5
+
+Sun Dec 11 12:54:50 2022
+Accepted request: PLAY: 3_title
+Response sent: [
+]
+
+
+Sun Dec 11 12:54:51 2022
+Disconnected
+
+Sun Dec 11 12:57:37 2022
+Connected5
+
+Sun Dec 11 12:57:37 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 12:57:37 2022
+Disconnected
+
+Sun Dec 11 12:57:37 2022
+Connected5
+
+Sun Dec 11 12:57:37 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "1_title"
+    },
+    {
+        "song_title": "2_title"
+    },
+    {
+        "song_title": "3_title"
+    }
+]
+
+
+Sun Dec 11 12:57:37 2022
+Disconnected
+
+Sun Dec 11 12:57:53 2022
+Connected5
+
+Sun Dec 11 12:57:53 2022
+Accepted request: PLAY: 3_title
+Response sent: [
+]
+
+
+Sun Dec 11 12:57:54 2022
+Disconnected
+
+Sun Dec 11 13:13:44 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:13:44 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:13:51 2022
+Connected5
+
+Sun Dec 11 13:13:51 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:13:51 2022
+Disconnected
+
+Sun Dec 11 13:13:51 2022
+Connected5
+
+Sun Dec 11 13:13:51 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:13:51 2022
+Disconnected
+
+Sun Dec 11 13:13:56 2022
+Connected5
+
+Sun Dec 11 13:13:56 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3   a  '
+
+Sun Dec 11 13:13:58 2022
+Disconnected
+
+Sun Dec 11 13:14:52 2022
+Connected5
+
+Sun Dec 11 13:14:52 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:14:52 2022
+Disconnected
+
+Sun Dec 11 13:14:52 2022
+Connected5
+
+Sun Dec 11 13:14:52 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:14:52 2022
+Disconnected
+
+Sun Dec 11 13:15:18 2022
+Connected5
+
+Sun Dec 11 13:15:18 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3   !  '
+
+Sun Dec 11 13:15:21 2022
+Disconnected
+
+Sun Dec 11 13:16:19 2022
+Connected5
+
+Sun Dec 11 13:16:19 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:16:19 2022
+Disconnected
+
+Sun Dec 11 13:16:19 2022
+Connected5
+
+Sun Dec 11 13:16:19 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:16:19 2022
+Disconnected
+
+Sun Dec 11 13:16:21 2022
+Connected5
+
+Sun Dec 11 13:16:21 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3   !  '
+
+Sun Dec 11 13:16:23 2022
+Disconnected
+
+Sun Dec 11 13:17:37 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:17:37 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:17:45 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:17:45 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:17:59 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:17:59 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:18:01 2022
+Connected5
+
+Sun Dec 11 13:18:01 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:18:01 2022
+Disconnected
+
+Sun Dec 11 13:18:01 2022
+Connected5
+
+Sun Dec 11 13:18:01 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:18:01 2022
+Disconnected
+
+Sun Dec 11 13:18:07 2022
+Connected5
+
+Sun Dec 11 13:19:06 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:19:06 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:19:08 2022
+Connected5
+
+Sun Dec 11 13:19:08 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:19:08 2022
+Disconnected
+
+Sun Dec 11 13:19:08 2022
+Connected5
+
+Sun Dec 11 13:19:08 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:19:08 2022
+Disconnected
+
+Sun Dec 11 13:19:11 2022
+Connected5
+
+Sun Dec 11 13:19:11 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+
+Sun Dec 11 13:19:12 2022
+Disconnected
+
+Sun Dec 11 13:19:45 2022
+Connected5
+
+Sun Dec 11 13:19:45 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:19:45 2022
+Disconnected
+
+Sun Dec 11 13:19:45 2022
+Connected5
+
+Sun Dec 11 13:19:45 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:19:45 2022
+Disconnected
+
+Sun Dec 11 13:19:47 2022
+Connected5
+
+Sun Dec 11 13:19:47 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+
+Sun Dec 11 13:20:14 2022
+Disconnected
+
+Sun Dec 11 13:20:21 2022
+Connected5
+
+Sun Dec 11 13:20:21 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:20:21 2022
+Disconnected
+
+Sun Dec 11 13:20:21 2022
+Connected5
+
+Sun Dec 11 13:20:21 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:20:21 2022
+Disconnected
+
+Sun Dec 11 13:20:24 2022
+Connected5
+
+Sun Dec 11 13:20:24 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+
+Sun Dec 11 13:22:07 2022
+Disconnected
+
+Sun Dec 11 13:22:14 2022
+Connected5
+
+Sun Dec 11 13:22:14 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:22:14 2022
+Disconnected
+
+Sun Dec 11 13:22:14 2022
+Connected5
+
+Sun Dec 11 13:22:14 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:22:14 2022
+Disconnected
+
+Sun Dec 11 13:22:16 2022
+Connected5
+
+Sun Dec 11 13:22:16 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+
+Sun Dec 11 13:22:16 2022
+Disconnected
+
+Sun Dec 11 13:22:24 2022
+Connected5
+
+Sun Dec 11 13:22:24 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:22:24 2022
+Disconnected
+
+Sun Dec 11 13:22:24 2022
+Connected5
+
+Sun Dec 11 13:22:24 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:22:24 2022
+Disconnected
+
+Sun Dec 11 13:22:30 2022
+Connected5
+
+Sun Dec 11 13:22:30 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+
+Sun Dec 11 13:22:49 2022
+Disconnected
+
+Sun Dec 11 13:23:12 2022
+Connected5
+
+Sun Dec 11 13:23:12 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:23:12 2022
+Disconnected
+
+Sun Dec 11 13:23:12 2022
+Connected5
+
+Sun Dec 11 13:23:12 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:23:12 2022
+Disconnected
+
+Sun Dec 11 13:23:14 2022
+Connected5
+
+Sun Dec 11 13:23:24 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+
+Sun Dec 11 13:26:12 2022
+Disconnected
+
+Sun Dec 11 13:26:23 2022
+Connected5
+
+Sun Dec 11 13:26:23 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:26:23 2022
+Disconnected
+
+Sun Dec 11 13:26:23 2022
+Connected5
+
+Sun Dec 11 13:26:23 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:26:23 2022
+Disconnected
+
+Sun Dec 11 13:26:36 2022
+Connected5
+
+Sun Dec 11 13:26:36 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+
+Sun Dec 11 13:26:37 2022
+Disconnected
+
+Sun Dec 11 13:28:45 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:28:45 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:30:14 2022
+Connected5
+
+Sun Dec 11 13:30:14 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:30:14 2022
+Disconnected
+
+Sun Dec 11 13:30:14 2022
+Connected5
+
+Sun Dec 11 13:30:14 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:30:14 2022
+Disconnected
+
+Sun Dec 11 13:30:17 2022
+Connected5
+
+Sun Dec 11 13:30:17 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+
+Sun Dec 11 13:30:18 2022
+Disconnected
+
+Sun Dec 11 13:31:33 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:31:33 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:31:41 2022
+Connected5
+
+Sun Dec 11 13:31:41 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:31:41 2022
+Disconnected
+
+Sun Dec 11 13:31:41 2022
+Connected5
+
+Sun Dec 11 13:31:41 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:31:41 2022
+Disconnected
+
+Sun Dec 11 13:31:43 2022
+Connected5
+
+Sun Dec 11 13:31:46 2022
+Disconnected
+
+Sun Dec 11 13:32:10 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:32:10 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:32:15 2022
+Connected5
+
+Sun Dec 11 13:32:15 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:32:15 2022
+Disconnected
+
+Sun Dec 11 13:32:15 2022
+Connected5
+
+Sun Dec 11 13:32:15 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:32:15 2022
+Disconnected
+
+Sun Dec 11 13:32:17 2022
+Connected5
+
+Sun Dec 11 13:32:18 2022
+Disconnected
+
+Sun Dec 11 13:32:33 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:32:33 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:32:39 2022
+Connected5
+
+Sun Dec 11 13:32:39 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:32:39 2022
+Disconnected
+
+Sun Dec 11 13:32:39 2022
+Connected5
+
+Sun Dec 11 13:32:39 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:32:39 2022
+Disconnected
+
+Sun Dec 11 13:32:44 2022
+Connected5
+
+Sun Dec 11 13:32:46 2022
+Disconnected
+
+Sun Dec 11 13:33:11 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:33:11 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:33:33 2022
+Connected5
+
+Sun Dec 11 13:33:40 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:33:42 2022
+Disconnected
+
+Sun Dec 11 13:33:52 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:33:52 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:33:54 2022
+Connected5
+
+Sun Dec 11 13:33:54 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:33:54 2022
+Disconnected
+
+Sun Dec 11 13:33:54 2022
+Connected5
+
+Sun Dec 11 13:33:54 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:33:54 2022
+Disconnected
+
+Sun Dec 11 13:33:57 2022
+Connected5
+
+Sun Dec 11 13:33:59 2022
+Disconnected
+
+Sun Dec 11 13:39:01 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:39:01 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:39:19 2022
+Connected5
+
+Sun Dec 11 13:39:19 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:39:19 2022
+Disconnected
+
+Sun Dec 11 13:39:19 2022
+Connected5
+
+Sun Dec 11 13:39:19 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:39:19 2022
+Disconnected
+
+Sun Dec 11 13:39:25 2022
+Connected5
+
+Sun Dec 11 13:39:28 2022
+Disconnected
+
+Sun Dec 11 13:42:59 2022
+Connected5
+
+Sun Dec 11 13:42:59 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:42:59 2022
+Disconnected
+
+Sun Dec 11 13:42:59 2022
+Connected5
+
+Sun Dec 11 13:42:59 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:42:59 2022
+Disconnected
+
+Sun Dec 11 13:43:00 2022
+Connected5
+
+Sun Dec 11 13:43:00 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+4102312 
+Sun Dec 11 13:43:02 2022
+Disconnected
+
+Sun Dec 11 13:49:23 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:49:23 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:49:25 2022
+Connected5
+
+Sun Dec 11 13:49:25 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:49:25 2022
+Disconnected
+
+Sun Dec 11 13:49:25 2022
+Connected5
+
+Sun Dec 11 13:49:25 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:49:25 2022
+Disconnected
+
+Sun Dec 11 13:49:27 2022
+Connected5
+
+Sun Dec 11 13:49:27 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:49:27 2022
+Disconnected
+
+Sun Dec 11 13:49:27 2022
+Connected5
+
+Sun Dec 11 13:49:27 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+'100' 
+Sun Dec 11 13:49:29 2022
+Disconnected
+
+Sun Dec 11 13:53:12 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 13:53:12 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 13:53:16 2022
+Connected5
+
+Sun Dec 11 13:53:16 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 13:53:16 2022
+Disconnected
+
+Sun Dec 11 13:53:16 2022
+Connected5
+
+Sun Dec 11 13:53:16 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 13:53:16 2022
+Disconnected
+
+Sun Dec 11 13:53:18 2022
+Connected5
+
+Sun Dec 11 13:53:18 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+'100' 
+Sun Dec 11 13:53:22 2022
+Disconnected
+
+Sun Dec 11 14:03:05 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 14:03:10 2022
+Connected5
+
+Sun Dec 11 14:03:10 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 14:03:10 2022
+Disconnected
+
+Sun Dec 11 14:03:10 2022
+Connected5
+
+Sun Dec 11 14:03:10 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 14:03:10 2022
+Disconnected
+
+Sun Dec 11 14:03:13 2022
+Connected5
+
+Sun Dec 11 14:03:15 2022
+Disconnected
+
+Sun Dec 11 14:06:23 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 14:06:25 2022
+Connected5
+
+Sun Dec 11 14:06:25 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 14:06:25 2022
+Disconnected
+
+Sun Dec 11 14:06:25 2022
+Connected5
+
+Sun Dec 11 14:06:25 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 14:06:25 2022
+Disconnected
+
+Sun Dec 11 14:06:28 2022
+Connected5
+
+Sun Dec 11 14:06:29 2022
+Disconnected
+
+Sun Dec 11 14:07:15 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 14:07:17 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 14:07:39 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 14:07:41 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 14:09:38 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 14:42:32 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 14:42:32 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 14:42:37 2022
+mInitialize db -- server start
+QMYSQL
+audioplayer
+127.0.0.1
+root
+roru159753
+
+Sun Dec 11 14:42:37 2022
+Listening to port 9999 on ip address 127.0.0.1
+
+Sun Dec 11 14:45:34 2022
+Connected5
+
+Sun Dec 11 14:45:34 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 14:45:34 2022
+Disconnected
+
+Sun Dec 11 14:45:34 2022
+Connected5
+
+Sun Dec 11 14:45:34 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 14:45:34 2022
+Disconnected
+
+Sun Dec 11 14:46:05 2022
+Connected5
+
+Sun Dec 11 14:46:05 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+found file name: /home/mint/CppProjects/Practice/server_app/cmake-build-debug/server_tracks/Freddie_Dredd_-_WTH.mp3
+'100' 
+Sun Dec 11 14:46:06 2022
+Disconnected
+
+Sun Dec 11 14:48:11 2022
+Connected5
+
+Sun Dec 11 14:48:11 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 14:48:11 2022
+Disconnected
+
+Sun Dec 11 14:48:11 2022
+Connected5
+
+Sun Dec 11 14:48:11 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 14:48:11 2022
+Disconnected
+
+Sun Dec 11 14:48:12 2022
+Connected5
+
+Sun Dec 11 14:48:13 2022
+Disconnected
+
+Sun Dec 11 14:48:36 2022
+Connected5
+
+Sun Dec 11 14:48:36 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 14:48:36 2022
+Disconnected
+
+Sun Dec 11 14:48:36 2022
+Connected5
+
+Sun Dec 11 14:48:36 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 14:48:36 2022
+Disconnected
+
+Sun Dec 11 14:48:37 2022
+Connected5
+
+Sun Dec 11 14:50:01 2022
+Disconnected
+
+Sun Dec 11 14:50:20 2022
+Connected5
+
+Sun Dec 11 14:50:20 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 14:50:20 2022
+Disconnected
+
+Sun Dec 11 14:50:20 2022
+Connected5
+
+Sun Dec 11 14:50:20 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 14:50:20 2022
+Disconnected
+
+Sun Dec 11 14:50:21 2022
+Connected5
+
+Sun Dec 11 14:51:15 2022
+Disconnected
+
+Sun Dec 11 14:54:47 2022
+Connected5
+
+Sun Dec 11 14:54:47 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 14:54:47 2022
+Disconnected
+
+Sun Dec 11 14:54:47 2022
+Connected5
+
+Sun Dec 11 14:54:47 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 14:54:47 2022
+Disconnected
+
+Sun Dec 11 14:54:47 2022
+Connected5
+
+Sun Dec 11 14:54:47 2022
+Disconnected
+
+Sun Dec 11 14:55:19 2022
+Connected5
+
+Sun Dec 11 14:55:19 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 14:55:19 2022
+Disconnected
+
+Sun Dec 11 14:55:19 2022
+Connected5
+
+Sun Dec 11 14:55:19 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 14:55:19 2022
+Disconnected
+
+Sun Dec 11 14:55:20 2022
+Connected5
+
+Sun Dec 11 14:55:20 2022
+Disconnected
+
+Sun Dec 11 14:56:23 2022
+Connected5
+
+Sun Dec 11 14:56:23 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 14:56:23 2022
+Disconnected
+
+Sun Dec 11 14:56:23 2022
+Connected5
+
+Sun Dec 11 14:56:23 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 14:56:23 2022
+Disconnected
+
+Sun Dec 11 14:56:24 2022
+Connected5
+
+Sun Dec 11 14:56:24 2022
+Disconnected
+
+Sun Dec 11 14:56:42 2022
+Connected5
+
+Sun Dec 11 14:56:42 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 14:57:03 2022
+Disconnected
+
+Sun Dec 11 14:57:07 2022
+Connected5
+
+Sun Dec 11 14:57:07 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 14:57:10 2022
+Disconnected
+
+Sun Dec 11 14:57:19 2022
+Connected5
+
+Sun Dec 11 14:57:33 2022
+Disconnected
+
+Sun Dec 11 15:02:18 2022
+Connected5
+
+Sun Dec 11 15:02:18 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 15:02:18 2022
+Disconnected
+
+Sun Dec 11 15:02:18 2022
+Connected5
+
+Sun Dec 11 15:02:18 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:02:18 2022
+Disconnected
+
+Sun Dec 11 15:02:19 2022
+Connected5
+
+Sun Dec 11 15:02:19 2022
+Disconnected
+
+Sun Dec 11 15:03:02 2022
+Connected5
+
+Sun Dec 11 15:03:02 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 15:03:07 2022
+Disconnected
+
+Sun Dec 11 15:03:12 2022
+Connected5
+
+Sun Dec 11 15:03:12 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:03:12 2022
+Disconnected
+
+Sun Dec 11 15:03:18 2022
+Connected5
+
+Sun Dec 11 15:03:25 2022
+Disconnected
+
+Sun Dec 11 15:07:03 2022
+Connected5
+
+Sun Dec 11 15:07:03 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 15:07:03 2022
+Disconnected
+
+Sun Dec 11 15:07:03 2022
+Connected5
+
+Sun Dec 11 15:07:03 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:03 2022
+Disconnected
+
+Sun Dec 11 15:07:04 2022
+Connected5
+
+Sun Dec 11 15:07:04 2022
+Disconnected
+
+Sun Dec 11 15:07:12 2022
+Connected5
+
+Sun Dec 11 15:07:12 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:12 2022
+Disconnected
+
+Sun Dec 11 15:07:12 2022
+Connected5
+
+Sun Dec 11 15:07:12 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:12 2022
+Disconnected
+
+Sun Dec 11 15:07:12 2022
+Connected5
+
+Sun Dec 11 15:07:12 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:12 2022
+Disconnected
+
+Sun Dec 11 15:07:12 2022
+Connected5
+
+Sun Dec 11 15:07:12 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:12 2022
+Disconnected
+
+Sun Dec 11 15:07:13 2022
+Connected5
+
+Sun Dec 11 15:07:13 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:13 2022
+Disconnected
+
+Sun Dec 11 15:07:13 2022
+Connected5
+
+Sun Dec 11 15:07:13 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:13 2022
+Disconnected
+
+Sun Dec 11 15:07:13 2022
+Connected5
+
+Sun Dec 11 15:07:13 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:13 2022
+Disconnected
+
+Sun Dec 11 15:07:13 2022
+Connected5
+
+Sun Dec 11 15:07:13 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:13 2022
+Disconnected
+
+Sun Dec 11 15:07:13 2022
+Connected5
+
+Sun Dec 11 15:07:13 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:13 2022
+Disconnected
+
+Sun Dec 11 15:07:13 2022
+Connected5
+
+Sun Dec 11 15:07:13 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:13 2022
+Disconnected
+
+Sun Dec 11 15:07:13 2022
+Connected5
+
+Sun Dec 11 15:07:13 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:13 2022
+Disconnected
+
+Sun Dec 11 15:07:25 2022
+Connected5
+
+Sun Dec 11 15:07:25 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:25 2022
+Disconnected
+
+Sun Dec 11 15:07:26 2022
+Connected5
+
+Sun Dec 11 15:07:26 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:26 2022
+Disconnected
+
+Sun Dec 11 15:07:26 2022
+Connected5
+
+Sun Dec 11 15:07:26 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:26 2022
+Disconnected
+
+Sun Dec 11 15:07:26 2022
+Connected5
+
+Sun Dec 11 15:07:26 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:26 2022
+Disconnected
+
+Sun Dec 11 15:07:26 2022
+Connected5
+
+Sun Dec 11 15:07:26 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:26 2022
+Disconnected
+
+Sun Dec 11 15:07:26 2022
+Connected5
+
+Sun Dec 11 15:07:26 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:07:26 2022
+Disconnected
+
+Sun Dec 11 15:07:28 2022
+Connected5
+
+Sun Dec 11 15:07:28 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+found file name: /home/mint/CppProjects/Practice/server_app/cmake-build-debug/server_tracks/Freddie_Dredd_-_WTH.mp3
+'100' 
+Sun Dec 11 15:07:28 2022
+Disconnected
+
+Sun Dec 11 15:07:30 2022
+Connected5
+
+Sun Dec 11 15:07:30 2022
+Disconnected
+
+Sun Dec 11 15:07:36 2022
+Connected5
+
+Sun Dec 11 15:07:36 2022
+Disconnected
+
+Sun Dec 11 15:07:36 2022
+Connected5
+
+Sun Dec 11 15:07:36 2022
+Disconnected
+
+Sun Dec 11 15:07:36 2022
+Connected5
+
+Sun Dec 11 15:07:36 2022
+Disconnected
+
+Sun Dec 11 15:07:38 2022
+Connected5
+
+Sun Dec 11 15:07:38 2022
+Disconnected
+
+Sun Dec 11 15:07:38 2022
+Connected5
+
+Sun Dec 11 15:07:38 2022
+Disconnected
+
+Sun Dec 11 15:08:24 2022
+Connected5
+
+Sun Dec 11 15:08:24 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:08:24 2022
+Disconnected
+
+Sun Dec 11 15:08:25 2022
+Connected5
+
+Sun Dec 11 15:08:25 2022
+Disconnected
+
+Sun Dec 11 15:08:25 2022
+Connected5
+
+Sun Dec 11 15:08:25 2022
+Disconnected
+
+Sun Dec 11 15:08:25 2022
+Connected5
+
+Sun Dec 11 15:08:25 2022
+Disconnected
+
+Sun Dec 11 15:10:11 2022
+Connected5
+
+Sun Dec 11 15:10:11 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 15:10:11 2022
+Disconnected
+
+Sun Dec 11 15:10:11 2022
+Connected5
+
+Sun Dec 11 15:10:11 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:10:11 2022
+Disconnected
+
+Sun Dec 11 15:10:12 2022
+Connected5
+
+Sun Dec 11 15:10:12 2022
+Disconnected
+
+Sun Dec 11 15:10:15 2022
+Connected5
+
+Sun Dec 11 15:10:15 2022
+Disconnected
+
+Sun Dec 11 15:10:22 2022
+Connected5
+
+Sun Dec 11 15:10:22 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 15:10:22 2022
+Disconnected
+
+Sun Dec 11 15:10:22 2022
+Connected5
+
+Sun Dec 11 15:10:22 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:10:22 2022
+Disconnected
+
+Sun Dec 11 15:10:23 2022
+Connected5
+
+Sun Dec 11 15:10:23 2022
+Disconnected
+
+Sun Dec 11 15:10:27 2022
+Connected5
+
+Sun Dec 11 15:10:27 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:10:27 2022
+Disconnected
+
+Sun Dec 11 15:11:34 2022
+Connected5
+
+Sun Dec 11 15:11:34 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 15:11:34 2022
+Disconnected
+
+Sun Dec 11 15:11:34 2022
+Connected5
+
+Sun Dec 11 15:11:34 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:11:34 2022
+Disconnected
+
+Sun Dec 11 15:11:38 2022
+Connected5
+
+Sun Dec 11 15:11:52 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+found file name: /home/mint/CppProjects/Practice/server_app/cmake-build-debug/server_tracks/Freddie_Dredd_-_WTH.mp3
+'100' 
+Sun Dec 11 15:14:29 2022
+Disconnected
+
+Sun Dec 11 15:16:00 2022
+Connected5
+
+Sun Dec 11 15:16:00 2022
+Accepted request: SELECT user_nickname, user_password FROM users WHERE user_nickname ='repkep2018';
+Response sent: [
+    {
+        "user_nickname": "repkep2018",
+        "user_password": "repkep2018"
+    }
+]
+
+
+Sun Dec 11 15:16:00 2022
+Disconnected
+
+Sun Dec 11 15:16:00 2022
+Connected5
+
+Sun Dec 11 15:16:00 2022
+Accepted request: SELECT song_title FROM songs WHERE id_user = (SELECT id FROM users WHERE user_nickname = 'repkep2018');
+Response sent: [
+    {
+        "song_title": "Freddie_Dredd_-_WTH.mp3"
+    }
+]
+
+
+Sun Dec 11 15:16:01 2022
+Disconnected
+
+Sun Dec 11 15:16:02 2022
+Connected5
+
+Sun Dec 11 15:16:02 2022
+Accepted request: PLAY: Freddie_Dredd_-_WTH.mp3
+Accepted request: SELECT song_file FROM songs WHERE song_title = 'Freddie_Dredd_-_WTH.mp3'
+found file name: /home/mint/CppProjects/Practice/server_app/cmake-build-debug/server_tracks/Freddie_Dredd_-_WTH.mp3
+'100' 
+Sun Dec 11 15:16:02 2022
+Disconnected
