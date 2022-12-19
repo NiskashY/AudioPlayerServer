@@ -20,7 +20,7 @@ private:
     QByteArray data;
     const QHostAddress kIpAddress = QHostAddress(QHostAddress::LocalHost);
     const quint16 kPort = 9999; // TODO:
-
+    QString working_dir;
     QSqlDatabase db;
 
 public slots:
