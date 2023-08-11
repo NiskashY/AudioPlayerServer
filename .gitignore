@@ -1,3 +1,4 @@
 # Files with db parametrs and logs
 .db_parameters
 logs.txt
+*build*
